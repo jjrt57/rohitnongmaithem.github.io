@@ -1,6 +1,6 @@
 # Rohit Nongmaithem
 
-Personal website: **https://jjrt57.github.io**
+Personal website: **https://jjrt57.github.io/rohitnongmaithem.github.io/**
 
 Computational chemist (M.Sc. in Physical and Computational Chemistry, Manipur University). I run and interpret DFT and TD-DFT calculations, build Python tools for chemistry data, and proofread scientific writing.
 
